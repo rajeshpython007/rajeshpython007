@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Mahapatra</h1>
 <h3 align="center">A passionate Data Business Analyst from India looking for a dynamic profile</h3>
-<img align="right" alt="dashboard" width="800" src="![image](https://user-images.githubusercontent.com/100021707/193491164-b1eaa4cf-7160-4629-8a73-de203cf71274.png)">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshpython007&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshpython007" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshpython007" alt="rajeshpython007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajeshmahapatra" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshmahapatra?logo=twitter&style=for-the-badge" alt="rajeshmahapatra" /></a> </p>
