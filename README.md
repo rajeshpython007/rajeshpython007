@@ -8,10 +8,7 @@
 - 🔭 I’m currently working on [UPWORK](https://public.tableau.com/app/profile/rajesh.mahapatra)
 
 - 🌱 I’m currently learning **Python, SQL, Tableau, Google Studio, PowerBI, Machine learning.**
-
-- 👯 I’m looking to collaborate on **Python Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajeshpython007/rajeshpython007](https://github.com/rajeshpython007/rajeshpython007)
+- 👨‍💻 All of my projects are available at [https://github.com/rajeshpython007?tab=repositories](https://github.com/rajeshpython007/rajeshpython007)
 
 - 💬 Ask me about **Python, SQL, Tableau, Advance excel, PowerBI, GoogleStudio, Tableau.**
 
