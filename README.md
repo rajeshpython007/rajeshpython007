@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rajeshmahapatra" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshmahapatra?logo=twitter&style=for-the-badge" alt="rajeshmahapatra" /></a> </p>
 
-- 🔭 I’m currently working on [UPWORK](https://public.tableau.com/app/profile/rajesh.mahapatra)
+- 🔭 I’m currently working at [IINFOCOMM](https://public.tableau.com/app/profile/rajesh.mahapatra)
 
-- 🌱 I’m currently learning **Python, SQL, Tableau, Google Studio, PowerBI, Machine learning.**
+- 🌱 I’m currently learning **Python, SQL, Tableau, Google Stats, PowerBI, Machine learning.**
 - 👨‍💻 All of my projects are available at [https://github.com/rajeshpython007?tab=repositories](https://github.com/rajeshpython007/rajeshpython007)
 
 - 💬 Ask me about **Python, SQL, Tableau, Advance excel, PowerBI, GoogleStudio, Tableau.**
